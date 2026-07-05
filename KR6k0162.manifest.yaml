@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0162_000.yaml, hash: 'sha256:5c03034678f0417750e1771059b4a9891b295b6e4a5db74cc326121c86ea3193'}
-  - {seq: 1, filename: KR6k0162_001.yaml, hash: 'sha256:c59916728913fc67fd12442f6b9c00df8174c812a20a8be544652f0eef72844b'}
+  - {seq: 0, filename: KR6k0162_000.yaml, hash: 'sha256:90d45261ac7605430935a1c506ee3f6d88d7bcc2c0de717fae9106ffa0b935d7'}
+  - {seq: 1, filename: KR6k0162_001.yaml, hash: 'sha256:8b0ea162df1ab54362f154b320daec8efbf4882ccb12db31bbf68b4fe92bb9ab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0162_000.markers.yaml, hash: 'sha256:2d8ee55ab851e02f2ead0d8db955b91e560dd27d141e5b4bf69724a45fe5bf0a'}
-  - {seq: 1, role: markers, filename: assets/KR6k0162_001.markers.yaml, hash: 'sha256:4a86c16da016a387b455ce2985aab162bbd1bab43c582954f0d3cc8e8a0c1a1a'}
+  - {seq: 0, role: markers, filename: assets/KR6k0162_000.markers.yaml, hash: 'sha256:2d3707a3b34c1ef4a39b0f23e26fd97c833ded47c6c3feb4257b0cd114ce7211'}
+  - {seq: 1, role: markers, filename: assets/KR6k0162_001.markers.yaml, hash: 'sha256:83dee10bd55e5ab07e08f06f08067992634c9ea82cf088b0ce883700a7a095b3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -59,7 +59,4 @@ table_of_contents:
     錄卷第一并序，從初盡第六門'
   type: juan
   level: 1
-hash: sha256:c10aaf35ad65b3aa58a41f8755c6f1b34d9b86ed2cebf667a0241bb26de45be6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c2f353b72ee18957a99d66ac1f012c00a2ed1c3b333b7dc9754d6f8798020aae
