@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0162_000.yaml, hash: 'sha256:5c03034678f0417750e1771059b4a9891b295b6e4a5db74cc326121c86ea3193'}
+  - {seq: 0, filename: KR6k0162_000.yaml, hash: 'sha256:ba7a4b0cddb7482d106c29441bca446c819ce85941ea92713d476cc9dde9665b'}
   - {seq: 1, filename: KR6k0162_001.yaml, hash: 'sha256:babc834a995120602fa76be15d1e9cd92549ba3990ca7b0d917dbf0535ffc278'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0162_000.markers.yaml, hash: 'sha256:a0e0eab67f6304455d6583ebe0079f8574cec9129900f885b24802a469232b6f'}
+  - {seq: 0, role: markers, filename: assets/KR6k0162_000.markers.yaml, hash: 'sha256:b3852f82bf3a1e856c05fa43e1f27bb2984eff212059b03acdcdf206d742b1d1'}
   - {seq: 1, role: markers, filename: assets/KR6k0162_001.markers.yaml, hash: 'sha256:b7df6ec4a5748ab398703e4a138f742b57858717a137ee2c4879db3f5971c5da'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0162_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 732-A 終南山四分律鈔搜玄錄序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0162_X_000-mulu-2
     span:
-    - front
+    - body
     - 281
     - 281
   label: 搜玄錄解四分律刪繁補闕行事鈔錄
@@ -59,7 +59,7 @@ table_of_contents:
     錄卷第一并序，從初盡第六門'
   type: juan
   level: 1
-hash: sha256:f744c6c491a6497478268c72d9b56edf10737252f9689aab983684d9a903838d
+hash: sha256:41092d7f2a93e8178ddd425d3727e83d82043ecb681e4e66a86b735177152987
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
